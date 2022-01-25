@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "676529903856",
+    "firebase_url": "https://viaramamemoryroomvr-default-rtdb.firebaseio.com",
+    "project_id": "viaramamemoryroomvr",
+    "storage_bucket": "viaramamemoryroomvr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676529903856:android:1d15a0c791de99b6eb8a35",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.viarama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676529903856-feiseeatnkdgirnc6ugj8jkku90qsqkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEPGUHFgusCn3upIK2x5noAfPbvaLfyVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676529903856-feiseeatnkdgirnc6ugj8jkku90qsqkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

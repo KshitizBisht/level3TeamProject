@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{656A7BAE-67EF-31C0-C612-5D98DBE192B2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FirebaseManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/UIManager.cs" Line="99" Column="36" />
+      <File FileName="Assets/Scripts/FirebaseManager.cs" Line="265" Column="61" />
+      <File FileName="Assets/Scripts/CustomScreen.cs" Line="24" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Viarama" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="FirebaseManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="948f08a0-f4d2-47e9-bbaf-a9e719756ee0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

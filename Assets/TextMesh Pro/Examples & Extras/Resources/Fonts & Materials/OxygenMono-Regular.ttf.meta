@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 663995d5789c37441b49b0e13599b2f4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Oxygen Mono
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c815f784f75931241be224e110a0ec76, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
